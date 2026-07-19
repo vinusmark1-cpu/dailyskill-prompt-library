@@ -6,7 +6,7 @@ full step-by-step guide at [dailyskill.ai](https://dailyskill.ai/?utm_source=git
 
 One new skill every day. ⭐ Star to follow along.
 
-## Challenge (30)
+## Challenge (45)
 
 ### Day 2 — Catch Up on Any Group Chat in 5 Lines (AI 1-Minute Challenge)
 > Skip the scroll. Paste your group chat into a free AI tool and get a clean 5-line summary in under a minute.
@@ -349,6 +349,154 @@ Please give me:
 5. One "don't miss" local food stop per day
 ```
 
+### Turn Messy Meeting Notes Into a Clean Action Table in 60 Seconds
+> Paste your notes into any AI chat and get a clean decisions/owners/deadlines table back in under a minute — no more scrolling back through your notes app.
+```text
+Here are my raw meeting notes. Turn them into a table with 3 columns: Decision, Owner, Deadline. Only include items that were actually agreed on — skip side comments and small talk. If a deadline wasn't mentioned, write "Not set."
+
+[paste your notes here]
+```
+
+### Stop Repeating Yourself to AI — Save Your Info Once, Forever
+> Set up Custom Instructions (or a Claude Project / Gemini Gem) once and every new AI chat already knows your job, tone, and formatting preferences.
+```text
+I work in [your role/team], mainly on [your main tasks].
+My audience is usually [coworkers/clients/managers].
+```
+```text
+Reply in a friendly but professional tone.
+Use short paragraphs and bullet points when listing more than 3 items.
+If I ask for a table, use a simple markdown table.
+Keep responses under 200 words unless I ask for more detail.
+```
+
+### Your AI Model Disappeared? Fix It in 60 Seconds (No Panic Needed)
+> Your usual AI model vanished from the list? Here's the exact 3-step fix to pick a better one in under a minute, no tech skills needed.
+```text
+Summarize the following in 3 bullet points, then write a 2-sentence 
+follow-up email based on it. Keep the tone friendly but professional.
+
+[paste your text here]
+```
+
+### Turn a Messy Meeting Photo Into a Clean To-Do List in 60 Seconds
+> Snap a photo of your meeting notes, paste one prompt, and get a clean date/owner/action-item list in under a minute — no typing required.
+```text
+Read this photo of my meeting notes. Turn it into a table with 3 columns: 
+Date, Owner (who's responsible), Action Item (what needs to happen). 
+If a date isn't mentioned, write "Not specified" instead of guessing.
+Keep it short — one line per action item.
+```
+
+### From Meeting Notes to Email in One AI Prompt (60-Second Trick)
+> One prompt that reads your meeting notes, summarizes the decisions into a table, and drafts the follow-up email — all in a single request.
+```text
+Read the meeting notes below, summarize the key decisions into a table,
+then write a draft email to share with the team.
+In the table, include three columns: Decision / Owner / Timeline.
+
+[Meeting notes]
+(paste your meeting notes here)
+```
+
+### 최신 AI 모델로 갈아타기 — 1분이면 답변 품질이 확 달라져요
+> ChatGPT·Claude·Gemini에서 지금 어떤 모델을 쓰고 있는지 1분 만에 확인하고, 가장 최신·강력한 모델로 바꾸는 법을 알려드려요. 같은 질문도 답변이 달라집니다.
+```text
+다음 이메일을 정중하지만 단호한 톤으로 다시 써줘. 
+받는 사람은 거래처 담당자이고, 납품 지연에 대해 재발 방지를 요청하는 내용이야.
+
+원문: "지난번 납품이 또 늦었어요. 다음부터는 좀 신경 써주세요."
+```
+
+### Get Better AI Answers in 60 Seconds: Turn On 'Deep Think' Mode
+> Most AI tools have a slower "reasoning mode" next to the fast one — turn it on for real decisions and get answers that actually sound thought through.
+```text
+Read the text below and organize your answer like this:
+1. Core conclusion (1-2 sentences)
+2. Three pieces of supporting evidence
+3. One likely counterargument or risk
+4. One thing I might be missing that you noticed
+
+Text:
+[paste your report, email, or notes here]
+```
+
+### The 10-Second AI Trick: Match the Model to the Task, Save Hours
+> Pick a faster, lighter AI model for small tasks and save the "smart" model for stuff that actually matters — takes 10 seconds to choose.
+```text
+Summarize this in 3 bullet points, plain language, no jargon:
+
+[paste your text here]
+```
+
+### End the Browser Tab War with an AI Desktop App (1-Minute Setup)
+> Set up an AI desktop app with a global keyboard shortcut once, and summon it from inside any program in one minute — no more hunting for browser tabs.
+```text
+From now on, you're my work assistant.
+Polish the sentence below into a natural, professional email tone:
+
+"Can we move tomorrow's meeting to 3pm? Something urgent came up."
+```
+
+### Stop Copy-Pasting Files Into AI — Connect Them in One Click
+> Connect your AI assistant directly to Google Drive, Docs, or your calendar so it can read your files itself — no more copy-pasting.
+```text
+Look at my "Q3 Sales Report" in Google Drive and give me the top 3 takeaways in plain English, plus one action item for each.
+```
+
+### Find Your Most-Repeated AI Questions in 60 Seconds
+> Ask AI to review your own chat history and spot your most-repeated request — then turn it into a saved shortcut you never have to retype again.
+```text
+Look back at my recent conversations with you.
+Tell me the 3 types of requests I ask most often
+(like "summarize," "draft email," "explain code," etc.),
+roughly what % of my chats each type makes up,
+and one example of a request I could turn into a
+reusable saved prompt.
+```
+
+### Write a Sharper AI Report in 3 Quick Steps (Try It Today)
+> Instead of one giant "write me a report" request, give AI three small ones — outline, fill, check — and get a tighter draft in about a minute.
+```text
+I need to write a [type of report] for [who it's for].
+Give me an outline — section titles and what goes in
+each one — as a numbered list. Don't write the actual
+content yet, just the plan.
+```
+```text
+Using the outline above, write section 2 only.
+Keep it to about 100 words. Tone: casual but professional.
+```
+
+### 새 AI 모델 나왔다고 결제 먼저 하지 마세요 — 3분이면 확인 끝
+> 새 모델 알림 뜨자마자 결제창 여셨나요? 잠깐, 그 모델 이미 쓰고 계신 요금제에 있을 수도 있어요. 3분 점검법을 알려드릴게요.
+```text
+아래 회의 내용을 3줄로 요약하고,
+담당자별 할 일을 표로 정리해줘.
+
+[회의 내용 붙여넣기]
+```
+
+### Extract Key Dates From a Long Event Invite in 60 Seconds
+> Paste a long event invite email into AI and get a 3-line calendar snippet — date, time, location, and one reminder — in about 60 seconds.
+```text
+Read this event invite and give me exactly 3 lines: Date & time, Location
+(full address if given), and one practical reminder (what to bring, dress
+code, or parking note — whichever is most relevant). Nothing else.
+
+[paste the event email here]
+```
+
+### Turn a Customer Complaint Into Actionable Feedback in 60 Seconds
+> Paste an angry customer message into AI and get a 2-sentence reframe — the real problem underneath, plus one concrete fix you can act on. In 60 seconds.
+```text
+Here's a frustrated customer message. In exactly 2 sentences, tell me:
+(1) the root problem underneath the emotion, and (2) one concrete fix
+I could act on. Skip the venting — just the signal.
+
+[paste the complaint here]
+```
+
 ## Misc (1)
 
 ### How to Turn a Fridge Photo Into 5 Dinner Ideas (In 60 Seconds)
@@ -533,7 +681,7 @@ Summarize this document. Give me:
 [paste the document]
 ```
 
-## Tool (25)
+## Tool (39)
 
 ### How to Use ChatGPT Free: A Complete Beginner's Guide (2026)
 > Learn how to use ChatGPT free in 5 minutes — write emails, get explanations, brainstorm ideas. No tech skills needed. Step-by-step guide.
@@ -587,20 +735,6 @@ Welcome to our weekly newsletter. This week, we're covering three ways
 to save time in your morning routine — without waking up any earlier.
 ```
 
-### Suno — Type a Vibe, Get a Full Song Back
-> Suno AI lets you type a mood or idea and get a full song back — vocals, instruments, everything. Free tier included.
-```text
-An upbeat acoustic pop song about a Monday morning coffee that saves the day. Warm, friendly, a little funny.
-```
-
-### Gamma — Skip the Blank Slide and Let AI Build Your Deck
-> Gamma AI builds polished slide decks and docs from a single prompt — no design skills needed. Free tier included.
-```text
-A 6-slide presentation for a team meeting about switching our project updates
-from weekly emails to a shared dashboard. Include the problem, the solution,
-key benefits, and a simple action plan.
-```
-
 ### Otter.ai — Never Take a Meeting Note by Hand Again
 > Otter.ai transcribes and summarizes meetings live so you never miss a detail — free tier available, no tech skills needed.
 ```text
@@ -612,13 +746,6 @@ List every action item mentioned in this meeting, who is responsible, and any de
 ```text
 /imagine a cozy Japanese coffee shop at night, warm lantern light,
 rain on the window, soft illustration style, muted colors
-```
-
-### Grammarly — Write Emails You're Actually Proud to Send
-> Grammarly catches grammar mistakes, improves your tone, and clarifies your writing as you type — free to start, no expertise needed.
-```text
-I wanted to touch base about the meeting yesterday it was very good 
-and I think we should definately do more of them in the future thanks
 ```
 
 ### Microsoft Copilot — Your Free AI Assistant Already on Your Windows PC
@@ -715,6 +842,136 @@ integrate x^2 + 3x dx
 ```
 ```text
 solve 2x + 5 = 13
+```
+
+### Microsoft Copilot — Your Free AI Assistant Already on Your Windows PC
+> You've probably needed this without knowing it existed — a free AI assistant already sitting in your Windows taskbar. Here's how to use it in 5 minutes.
+```text
+I need to politely decline a meeting request from a colleague.
+Write me a short, friendly email — 3 sentences max.
+```
+```text
+Summarize this in plain English. What do I actually need to do by Friday?
+```
+
+### Claude Artifacts — turn a plain-English idea into a working page in minutes
+> See your code, HTML, or document come to life instantly — no coding skills, no setup, just describe what you want.
+```text
+Create a simple one-page website for a small bakery. Include a header with the bakery name, a short "About us" paragraph, a menu with 3 items and prices, and a contact section at the bottom. Use warm, friendly colors.
+```
+
+### Descript — Edit Video and Audio Like a Word Document
+> Edit podcasts and videos by editing a transcript — Descript removes filler words and bad takes automatically. Free for 3 hrs/month.
+```text
+Remove all filler words, long pauses over 2 seconds, and repeated
+sentences where I clearly restarted a thought. Keep my original
+meaning and tone.
+```
+
+### Tome — Turn a Wall of Text Into a Deck You'd Actually Present
+> Tome is a free AI presentation generator that builds polished slides from plain text — no design skills needed.
+```text
+Create a 6-slide presentation for a team meeting about "why we should switch to a 4-day work week trial." Include an intro slide, 3 benefit slides with data-style points, one slide addressing concerns, and a closing slide with next steps. Tone: professional but not stiff.
+```
+
+### Synthesia — Turn Any Script Into a Professional Video Without Filming Yourself
+> Synthesia turns text into an AI avatar video in minutes. See how to make your first training or announcement video free.
+```text
+Hi team, quick update on our new expense process.
+Starting next Monday, submit all receipts through the portal link in your email.
+Approvals now take 2 business days instead of 5.
+If you have questions, reply to this video or check the FAQ doc linked below.
+Thanks for watching — see you at the standup.
+```
+
+### Copy.ai — Turn "I don't know what to write" into a Finished Post in Minutes
+> Stuck staring at a blank caption box? Copy.ai turns one product name into ready-to-post social copy in under a minute.
+```text
+Write 3 short Instagram captions for a handmade candle shop.
+Product: lavender soy candle, 40-hour burn time, $18.
+Tone: warm and cozy, include 2 relevant emojis, no hashtags.
+```
+
+### You.com — A Free AI Search Engine That Skips the 10 Blue Links
+> You.com blends web search with AI summaries so you get one clear answer instead of ten tabs to sort through.
+```text
+What are the current mortgage rates in the US today, and how do they compare to last month? Summarize in 3 bullet points with sources.
+```
+
+### Murf.ai — Get a Professional-Sounding Voiceover Without Hiring a Voice Actor
+> Murf.ai converts written text into realistic voiceovers in 120+ languages — free for 10 minutes a month. Here's how to use it in 5 minutes.
+```text
+Welcome to our quarterly update. In the next three minutes, we'll walk through
+what changed, why it matters, and what we're doing next. Let's get started.
+```
+
+### Landscape.ai — turn a plain photo into a wide, deep scene
+> Landscape.ai expands photo backgrounds and adds depth with AI — perfect for travel and real estate shots. Free credits included.
+```text
+Extend this photo naturally on all sides, keep the lighting and colors consistent,
+add realistic depth, and avoid adding new objects that weren't in the original scene.
+```
+
+### Taskade — Let AI Build Your Project Plan While You Just Describe It
+> Taskade is an AI task organizer that builds to-do lists, mind maps, and project plans from one sentence—free for small workloads.
+```text
+Create a project plan for launching a 4-week beginner yoga class online.
+Break it into phases: planning, marketing, filming, and launch.
+Include a mind map view and a task list with rough deadlines.
+```
+
+### GetResponse AI — a landing page and email sequence from one paragraph
+> See how GetResponse AI drafts a landing page and email sequence from a few plain sentences — no design or copywriting skills needed.
+```text
+I sell a 4-week online course teaching beginners how to bake sourdough bread at home.
+Write a landing page headline, three benefit bullets, and a 3-email welcome
+sequence encouraging signups to enroll before the price goes up.
+```
+
+### Fliki — Turn a Blog Post Into a Narrated Video Without Touching Editing Software
+> Fliki converts blog posts into narrated videos with AI voices — a simple blog-to-video tool for social media, no editing skills needed.
+```text
+Write a 60-second video script about "3 morning habits that actually save you time," in a friendly, conversational tone, with short punchy sentences.
+```
+
+### Soundraw — Generate Royalty-Free Music Without the Copyright Headache
+> Need copyright-free music for a YouTube video or podcast? Soundraw generates custom royalty-free tracks in minutes. No licensing headaches.
+```text
+Mood: Uplifting
+Genre: Corporate / Pop
+Length: 45 seconds
+Energy: Building toward the end
+Use: YouTube intro
+```
+
+### Beautiful.ai — Slides That Design Themselves While You Type
+> Beautiful.ai is an AI presentation maker that auto-fixes your slide layout as you type. Try it free in 5 minutes.
+```text
+Create a 6-slide pitch deck for a small bakery launching a
+subscription box service. Include: problem, solution, how it
+works, pricing tiers, and a closing call-to-action slide.
+```
+
+### Paste — Turn Any Code Snippet Into a Free Coding Lesson
+> Paste your code, get instant AI feedback and beginner-friendly explanations. See how Paste turns confusing errors into learning moments.
+```text
+Here's a Python function that's supposed to remove duplicates
+from a list but keeps returning duplicates. Explain what's wrong
+in simple terms, then show the fixed version with comments.
+```
+
+### Bookworm — Finally Finish (or Skip) That Book on Your Shelf
+> Bookworm summarizes books and answers your plot questions without spoilers. Here's how to try it free in 5 minutes.
+```text
+I'm on chapter 6 of [book title]. Summarize what's happened so far,
+and explain the relationship between [character A] and [character B]
+without spoiling anything past this point.
+```
+
+### Clarifai — Find Any Photo by What's In It, Not When You Took It
+> Clarifai is an image recognition AI that identifies objects, text, and scenes in photos — perfect for organizing and searching your photo library fast.
+```text
+Describe everything visible in this image, including any text.
 ```
 
 ---

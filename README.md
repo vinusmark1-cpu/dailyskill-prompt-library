@@ -6,7 +6,7 @@ full step-by-step guide at [dailyskill.ai](https://dailyskill.ai/?utm_source=git
 
 One new skill every day. ⭐ Star to follow along.
 
-## Challenge (45)
+## Challenge (46)
 
 ### Day 2 — Catch Up on Any Group Chat in 5 Lines (AI 1-Minute Challenge)
 > Skip the scroll. Paste your group chat into a free AI tool and get a clean 5-line summary in under a minute.
@@ -495,6 +495,12 @@ Here's a frustrated customer message. In exactly 2 sentences, tell me:
 I could act on. Skip the venting — just the signal.
 
 [paste the complaint here]
+```
+
+### New AI Model Just Dropped? Test It in 60 Seconds Before You Switch
+> A new AI model comes out almost every week. Here's a quick 60-second test to see if it's actually better for YOUR tasks — before you switch everything over.
+```text
+Write a follow-up email to a client who hasn't replied in 5 days about our proposal. Keep it friendly but firm. 3 sentences max.
 ```
 
 ## Misc (1)

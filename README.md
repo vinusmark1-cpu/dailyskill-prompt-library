@@ -6,7 +6,7 @@ full step-by-step guide at [dailyskill.ai](https://dailyskill.ai/?utm_source=git
 
 One new skill every day. ⭐ Star to follow along.
 
-## Challenge (46)
+## Challenge (47)
 
 ### Day 2 — Catch Up on Any Group Chat in 5 Lines (AI 1-Minute Challenge)
 > Skip the scroll. Paste your group chat into a free AI tool and get a clean 5-line summary in under a minute.
@@ -503,6 +503,14 @@ I could act on. Skip the venting — just the signal.
 Write a follow-up email to a client who hasn't replied in 5 days about our proposal. Keep it friendly but firm. 3 sentences max.
 ```
 
+### Fix Wrong AI Answers in 10 Seconds: Fast Mode vs Deep Think Mode
+> Learn the one setting that stops AI from guessing on hard questions — a 60-second trick to switch between fast answers and careful, double-checked ones.
+```text
+Before answering, work through this step by step, 
+show each calculation, and double-check your final number 
+before giving it to me.
+```
+
 ## Misc (1)
 
 ### How to Turn a Fridge Photo Into 5 Dinner Ideas (In 60 Seconds)
@@ -687,7 +695,7 @@ Summarize this document. Give me:
 [paste the document]
 ```
 
-## Tool (39)
+## Tool (40)
 
 ### How to Use ChatGPT Free: A Complete Beginner's Guide (2026)
 > Learn how to use ChatGPT free in 5 minutes — write emails, get explanations, brainstorm ideas. No tech skills needed. Step-by-step guide.
@@ -978,6 +986,12 @@ without spoiling anything past this point.
 > Clarifai is an image recognition AI that identifies objects, text, and scenes in photos — perfect for organizing and searching your photo library fast.
 ```text
 Describe everything visible in this image, including any text.
+```
+
+### Notion AI — Turn a Pile of Notes Into Something You Can Actually Use
+> See how Notion AI summarizes notes, drafts text, and organizes your workspace in minutes — plus what its free tier actually limits.
+```text
+Summarize this into 3 bullet points, then list any action items with who owns each one.
 ```
 
 ---

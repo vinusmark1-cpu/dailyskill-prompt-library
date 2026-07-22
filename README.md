@@ -6,7 +6,7 @@ full step-by-step guide at [dailyskill.ai](https://dailyskill.ai/?utm_source=git
 
 One new skill every day. ⭐ Star to follow along.
 
-## Challenge (47)
+## Challenge (48)
 
 ### Day 2 — Catch Up on Any Group Chat in 5 Lines (AI 1-Minute Challenge)
 > Skip the scroll. Paste your group chat into a free AI tool and get a clean 5-line summary in under a minute.
@@ -511,6 +511,17 @@ show each calculation, and double-check your final number
 before giving it to me.
 ```
 
+### Stop Wasting Your AI Subscription — Get 3x More Before You Hit the Limit
+> Learn the 3-step habit that stretches your paid ChatGPT, Claude, or Gemini plan further — so you never hit "limit reached" mid-task again.
+```text
+Before I ask my real question: is this task simple (summary, rewrite, translation)
+or complex (analysis, coding, multi-step reasoning)? Answer in one word: SIMPLE or COMPLEX.
+```
+```text
+Translate this email to formal Spanish, keep the tone professional but warm:
+"Hi Maria, following up on our call — can we move Thursday's meeting to 2pm instead of 10am?"
+```
+
 ## Misc (1)
 
 ### How to Turn a Fridge Photo Into 5 Dinner Ideas (In 60 Seconds)
@@ -695,7 +706,7 @@ Summarize this document. Give me:
 [paste the document]
 ```
 
-## Tool (40)
+## Tool (41)
 
 ### How to Use ChatGPT Free: A Complete Beginner's Guide (2026)
 > Learn how to use ChatGPT free in 5 minutes — write emails, get explanations, brainstorm ideas. No tech skills needed. Step-by-step guide.
@@ -992,6 +1003,12 @@ Describe everything visible in this image, including any text.
 > See how Notion AI summarizes notes, drafts text, and organizes your workspace in minutes — plus what its free tier actually limits.
 ```text
 Summarize this into 3 bullet points, then list any action items with who owns each one.
+```
+
+### v0 — Describe Your Website Idea, Get a Real Layout Back in Minutes
+> v0 turns plain text into working website layouts — a no-code AI web design tool that writes real React code for you in minutes.
+```text
+Create a landing page for a small bakery. Include a hero section with a headline and a photo placeholder, a section showing 3 popular products with names and prices, a short "About us" paragraph, and a contact form at the bottom. Use warm, cozy colors.
 ```
 
 ---

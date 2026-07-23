@@ -6,7 +6,7 @@ full step-by-step guide at [dailyskill.ai](https://dailyskill.ai/?utm_source=git
 
 One new skill every day. ⭐ Star to follow along.
 
-## Challenge (48)
+## Challenge (49)
 
 ### Day 2 — Catch Up on Any Group Chat in 5 Lines (AI 1-Minute Challenge)
 > Skip the scroll. Paste your group chat into a free AI tool and get a clean 5-line summary in under a minute.
@@ -522,6 +522,17 @@ Translate this email to formal Spanish, keep the tone professional but warm:
 "Hi Maria, following up on our call — can we move Thursday's meeting to 2pm instead of 10am?"
 ```
 
+### AI 답변이 느려서 답답할 때 — 모델 하나만 바꾸면 3배 빨라집니다
+> 매번 최고급 AI 모델만 쓰고 계신가요? 작업에 맞춰 "빠른 모델"과 "똑똑한 모델"을 나눠 쓰는 1분 습관으로 속도와 사용량을 동시에 아끼는 법을 알려드립니다.
+```text
+다음 회의록을 3줄로 요약해줘. 각 줄은 20자 이내로:
+
+"오늘 오전 마케팅 회의에서는 3월 프로모션 예산을 
+기존 500만원에서 700만원으로 늘리기로 했다. 
+인스타그램 광고 비중을 60%로 올리고, 
+결과 보고는 매주 금요일에 하기로 합의했다."
+```
+
 ## Misc (1)
 
 ### How to Turn a Fridge Photo Into 5 Dinner Ideas (In 60 Seconds)
@@ -706,7 +717,7 @@ Summarize this document. Give me:
 [paste the document]
 ```
 
-## Tool (41)
+## Tool (42)
 
 ### How to Use ChatGPT Free: A Complete Beginner's Guide (2026)
 > Learn how to use ChatGPT free in 5 minutes — write emails, get explanations, brainstorm ideas. No tech skills needed. Step-by-step guide.
@@ -1009,6 +1020,15 @@ Summarize this into 3 bullet points, then list any action items with who owns ea
 > v0 turns plain text into working website layouts — a no-code AI web design tool that writes real React code for you in minutes.
 ```text
 Create a landing page for a small bakery. Include a hero section with a headline and a photo placeholder, a section showing 3 popular products with names and prices, a short "About us" paragraph, and a contact form at the bottom. Use warm, cozy colors.
+```
+
+### Monster Resume AI — turn one resume into a job-specific match, in 5 minutes
+> Stop guessing what recruiters want. Monster Resume AI tailors your resume and cover letter to match any job posting, fast.
+```text
+Here is my resume and a job posting. Rewrite my resume summary and
+skills section to match the job's key requirements, using the same
+keywords the posting uses where they honestly apply to my experience.
+Then draft a 3-paragraph cover letter for this specific role.
 ```
 
 ---

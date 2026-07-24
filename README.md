@@ -6,7 +6,7 @@ full step-by-step guide at [dailyskill.ai](https://dailyskill.ai/?utm_source=git
 
 One new skill every day. ⭐ Star to follow along.
 
-## Challenge (49)
+## Challenge (50)
 
 ### Day 2 — Catch Up on Any Group Chat in 5 Lines (AI 1-Minute Challenge)
 > Skip the scroll. Paste your group chat into a free AI tool and get a clean 5-line summary in under a minute.
@@ -511,26 +511,69 @@ show each calculation, and double-check your final number
 before giving it to me.
 ```
 
-### Stop Wasting Your AI Subscription — Get 3x More Before You Hit the Limit
-> Learn the 3-step habit that stretches your paid ChatGPT, Claude, or Gemini plan further — so you never hit "limit reached" mid-task again.
+### Decode Any Nutrition Label in 60 Seconds — What the Claims Really Mean
+> Snap a photo of any food label and let ChatGPT translate the confusing health claims — "low fat," "no added sugar," "natural" — into plain English in about a minute.
 ```text
-Before I ask my real question: is this task simple (summary, rewrite, translation)
-or complex (analysis, coding, multi-step reasoning)? Answer in one word: SIMPLE or COMPLEX.
-```
-```text
-Translate this email to formal Spanish, keep the tone professional but warm:
-"Hi Maria, following up on our call — can we move Thursday's meeting to 2pm instead of 10am?"
+Here's a photo of a food label. In plain English:
+
+1. Pick the 3 marketing claims on the front (like "low fat" or "natural")
+   and tell me what each one actually means for this product.
+2. Point out anything the claims might be hiding (e.g. high sugar despite
+   "low fat").
+3. Give me a one-line honest verdict: is this roughly a healthier choice,
+   or mostly marketing?
+
+Keep it simple — explain like I'm not a nutritionist.
 ```
 
-### AI 답변이 느려서 답답할 때 — 모델 하나만 바꾸면 3배 빨라집니다
-> 매번 최고급 AI 모델만 쓰고 계신가요? 작업에 맞춰 "빠른 모델"과 "똑똑한 모델"을 나눠 쓰는 1분 습관으로 속도와 사용량을 동시에 아끼는 법을 알려드립니다.
+### Turn Any Chapter Into a 5-Question Practice Quiz in 60 Seconds
+> Turn any textbook chapter or article into a 5-question practice quiz — with an answer key and a plain-English explanation for each — using one ChatGPT prompt in about a minute.
 ```text
-다음 회의록을 3줄로 요약해줘. 각 줄은 20자 이내로:
+You are a study coach. Based only on the text below, write 5 multiple-choice
+questions that test the most important ideas.
 
-"오늘 오전 마케팅 회의에서는 3월 프로모션 예산을 
-기존 500만원에서 700만원으로 늘리기로 했다. 
-인스타그램 광고 비중을 60%로 올리고, 
-결과 보고는 매주 금요일에 하기로 합의했다."
+For each question:
+- Give 4 options labeled A–D, with only one correct answer.
+- Do NOT reveal the answer next to the question.
+
+After all 5 questions, add an ANSWER KEY that lists the correct letter for each,
+plus a one-sentence plain-English explanation of why it's right.
+
+TEXT:
+[paste your chapter or notes here]
+```
+```text
+1. What do plants primarily use to convert light into energy?
+   A) Nitrogen   B) Chlorophyll   C) Oxygen   D) Glucose
+
+2. Which gas do plants take in during photosynthesis?
+   A) Oxygen   B) Hydrogen   C) Carbon dioxide   D) Helium
+...
+
+ANSWER KEY
+1. B — Chlorophyll is the pigment that captures light energy.
+2. C — Plants absorb carbon dioxide and release oxygen.
+```
+
+### Day 53 — Turn Bullet Points Into Social Posts for 3 Platforms in 60 Seconds (AI 1-Minute Challenge)
+> Convert bullet points to social posts instantly — get LinkedIn, Instagram, and Twitter versions ready to copy with one AI prompt.
+```text
+I have these talking points from [event/project/idea]:
+- [point 1]
+- [point 2]
+- [point 3]
+
+Turn this into 3 different social media posts:
+1. LinkedIn version — professional but warm, 1 short story hook, ends with a question
+2. Instagram version — casual, uses emojis, short punchy lines, caption-style
+3. Twitter/X version — under 280 characters, sharp and direct, no fluff
+
+Keep my original facts. Don't invent details I didn't give you.
+```
+```text
+- Finished my first 30 days of learning Python
+- Built a small tool that tracks my expenses automatically
+- Was scared to start, almost gave up in week 1
 ```
 
 ## Misc (1)
@@ -717,7 +760,7 @@ Summarize this document. Give me:
 [paste the document]
 ```
 
-## Tool (42)
+## Tool (43)
 
 ### How to Use ChatGPT Free: A Complete Beginner's Guide (2026)
 > Learn how to use ChatGPT free in 5 minutes — write emails, get explanations, brainstorm ideas. No tech skills needed. Step-by-step guide.
@@ -1029,6 +1072,12 @@ Here is my resume and a job posting. Rewrite my resume summary and
 skills section to match the job's key requirements, using the same
 keywords the posting uses where they honestly apply to my experience.
 Then draft a 3-paragraph cover letter for this specific role.
+```
+
+### Midjourney — Turn a Text Prompt Into Custom Art in 5 Minutes
+> Midjourney is an AI art generator that turns text prompts into original illustrations. See how to create your first image today.
+```text
+A friendly robot watering plants in a sunlit greenhouse, soft pastel colors, flat illustration style, cheerful mood
 ```
 
 ---

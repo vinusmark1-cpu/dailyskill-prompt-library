@@ -497,18 +497,34 @@ I could act on. Skip the venting — just the signal.
 [paste the complaint here]
 ```
 
-### New AI Model Just Dropped? Test It in 60 Seconds Before You Switch
-> A new AI model comes out almost every week. Here's a quick 60-second test to see if it's actually better for YOUR tasks — before you switch everything over.
+### Build a Smart Packing List for Any Trip in 60 Seconds
+> Give ChatGPT your destination, trip length, and main activity, and get a categorized packing list tailored to your trip in about a minute — so you stop forgetting the charger every time.
 ```text
-Write a follow-up email to a client who hasn't replied in 5 days about our proposal. Keep it friendly but firm. 3 sentences max.
+Build me a packing list for a trip.
+
+- Destination: [city/country]
+- Length: [number of days]
+- Main activity: [e.g. business meetings, beach, hiking, city sightseeing]
+- Season/weather if you know it: [optional]
+
+Organize it into categories (Clothing, Toiletries, Electronics, Documents,
+Trip-specific). Keep it to essentials — don't overpack. Flag anything easy
+to forget.
 ```
 
-### Fix Wrong AI Answers in 10 Seconds: Fast Mode vs Deep Think Mode
-> Learn the one setting that stops AI from guessing on hard questions — a 60-second trick to switch between fast answers and careful, double-checked ones.
+### Turn a Product Photo Into a Sales Description in 60 Seconds
+> Upload a photo of anything you're selling and let Claude write a punchy 50-word sales description that highlights the features buyers care about — perfect for resale listings, in about a minute.
 ```text
-Before answering, work through this step by step, 
-show each calculation, and double-check your final number 
-before giving it to me.
+Here's a photo of an item I'm selling secondhand. Write a 50-word listing
+description that:
+
+- Highlights the features a buyer would care about (condition, material,
+  brand, size if visible, standout details).
+- Sounds honest and appealing, not spammy.
+- Ends with a short line that nudges the buyer to act.
+
+If you can't tell something from the photo (like exact size), leave a
+[bracket] for me to fill in.
 ```
 
 ### Decode Any Nutrition Label in 60 Seconds — What the Claims Really Mean

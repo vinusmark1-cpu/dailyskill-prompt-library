@@ -6,7 +6,7 @@ full step-by-step guide at [dailyskill.ai](https://dailyskill.ai/?utm_source=git
 
 One new skill every day. ⭐ Star to follow along.
 
-## Challenge (50)
+## Challenge (51)
 
 ### Day 2 — Catch Up on Any Group Chat in 5 Lines (AI 1-Minute Challenge)
 > Skip the scroll. Paste your group chat into a free AI tool and get a clean 5-line summary in under a minute.
@@ -571,7 +571,7 @@ ANSWER KEY
 2. C — Plants absorb carbon dioxide and release oxygen.
 ```
 
-### Day 53 — Turn Bullet Points Into Social Posts for 3 Platforms in 60 Seconds (AI 1-Minute Challenge)
+### Turn Bullet Points Into Social Posts for 3 Platforms in 60 Seconds
 > Convert bullet points to social posts instantly — get LinkedIn, Instagram, and Twitter versions ready to copy with one AI prompt.
 ```text
 I have these talking points from [event/project/idea]:
@@ -590,6 +590,20 @@ Keep my original facts. Don't invent details I didn't give you.
 - Finished my first 30 days of learning Python
 - Built a small tool that tracks my expenses automatically
 - Was scared to start, almost gave up in week 1
+```
+
+### Get a Custom Morning Checklist Built for Your Exact Schedule
+> Give AI your wake time and priorities, get a minute-by-minute morning checklist made just for you.
+```text
+Build me a minute-by-minute morning routine checklist.
+
+- I wake up at: [6:30am]
+- I need to start work by: [8:30am]
+- My top 2 priorities to fit in: [exercise, eat a real breakfast]
+- Other things I usually need time for: [shower, get kid ready, commute is 20 min]
+
+Format it as a simple checklist with times, from wake-up to walking out the door.
+Keep steps short and realistic — no fluff, no wasted minutes.
 ```
 
 ## Misc (1)

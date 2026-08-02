@@ -6,7 +6,7 @@ full step-by-step guide at [dailyskill.ai](https://dailyskill.ai/?utm_source=git
 
 One new skill every day. ⭐ Star to follow along.
 
-## Challenge (51)
+## Challenge (52)
 
 ### Day 2 — Catch Up on Any Group Chat in 5 Lines (AI 1-Minute Challenge)
 > Skip the scroll. Paste your group chat into a free AI tool and get a clean 5-line summary in under a minute.
@@ -604,6 +604,18 @@ Build me a minute-by-minute morning routine checklist.
 
 Format it as a simple checklist with times, from wake-up to walking out the door.
 Keep steps short and realistic — no fluff, no wasted minutes.
+```
+
+### Stop Rewatching Review Videos — Let AI Build Your Comparison Chart
+> Stuck deciding between two products? Get a clear AI-made comparison chart with a verdict in under a minute.
+```text
+Compare [Product A] and [Product B] for someone who wants [your main need, e.g. "quiet operation and easy cleanup"].
+
+Create a simple comparison table with these 5 rows:
+Price, Durability, Ease of Use, Best For, Verdict
+
+Keep each cell short — one line or phrase, no long paragraphs.
+End with a one-sentence recommendation.
 ```
 
 ## Misc (1)

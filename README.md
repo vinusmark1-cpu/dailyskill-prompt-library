@@ -6,6 +6,10 @@ full step-by-step guide at [dailyskill.ai](https://dailyskill.ai/?utm_source=git
 
 One new skill every day. ⭐ Star to follow along.
 
+## Benchmarks
+
+- [ChatGPT vs Claude vs Gemini — 20 Everyday Tasks (Aug 2026)](benchmarks/2026-08-chatgpt-vs-claude-vs-gemini-20-tasks/) — full prompts, full responses, and scores from a blind AI-judged comparison. [Read the post](https://dailyskill.ai/chatgpt-vs-claude-vs-gemini-20-everyday-tasks-tested/?utm_source=github&utm_medium=prompt_library).
+
 ## Challenge (52)
 
 ### Day 2 — Catch Up on Any Group Chat in 5 Lines (AI 1-Minute Challenge)
